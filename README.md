@@ -20,12 +20,21 @@ XML To SQL Converter Using Python
 ### 3.	The receiver database contains at least 5 rows per table.
 
 ### Results 
+### XML To SQL Converter Results Using Python
+![image](https://github.com/alis0712/XMLToSQL/assets/62857780/38f169b0-12e8-4b80-bae8-3aa64e20cdb2)
 
+### Database Tables
 ![sender](https://github.com/alis0712/XMLToSQL/assets/62857780/9d36c9db-0fdd-49e5-92e3-71ec97bd7ef6)
+
 ![fruits_Table_xml_to_sql_using_python](https://github.com/alis0712/XMLToSQL/assets/62857780/f454f56f-ec80-4726-a035-df265ae542c6)
+
 ![Bank_Customer_Table_xml_to_sql_converter_using_python](https://github.com/alis0712/XMLToSQL/assets/62857780/e01b7fbe-56db-458c-a7a1-bc9d0f64662d)
+
 ![Bank_Employee_Table_xml_to_sql_converter_using_pythob](https://github.com/alis0712/XMLToSQL/assets/62857780/8e6fb2f5-7dbe-499b-a008-c24de054b6b1)
+
 ![receiver_bank_accounts_details](https://github.com/alis0712/XMLToSQL/assets/62857780/fa036426-9aa2-4cb0-9fc3-adef7a2443a1)
+
 ![receiver_bank_employee](https://github.com/alis0712/XMLToSQL/assets/62857780/959d3a58-babd-4d4d-9275-d3506f6983ee)
+
 ![receiver_fruits_details](https://github.com/alis0712/XMLToSQL/assets/62857780/760981e1-7cb4-4f46-9dff-b6ff3bf4f3e7)
 
